@@ -3,7 +3,7 @@ fizz = 0
 buzz = 0
 fizzbuzz = 0
 for number in range (1, 101):
-  
+  print(number)
   if number % 3:
        
     print("fizz")
